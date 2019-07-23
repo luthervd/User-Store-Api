@@ -1,4 +1,4 @@
-const store = require("User-Store").default();
+const store = require("luthervd-user-store").default();
 const bodyParser = require("body-parser");
 const jsonParser = bodyParser.json();
 const app = require("express")();

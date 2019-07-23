@@ -1,11 +1,15 @@
 {
-  "name": "user-store-api",
+  "name": "luthervd-user-store-api",
   "version": "1.0.0",
   "description": "APi for user store",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luthervd/User-Store-Api.git"
   },
   "keywords": [
     "UserStore"
@@ -15,7 +19,8 @@
   "dependencies": {
     "cors": "^2.8.4",
     "express": "^4.16.4",
-    "json-parser": "^1.1.5"
+    "json-parser": "^1.1.5",
+    "luthervd-user-store": "^1.0.0"
   },
   "devDependencies": {
     "pathfinder-ui-auth": "^1.0.2"
