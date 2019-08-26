@@ -1,10 +1,10 @@
 {
   "name": "luthervd-user-store-api",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "APi for user store",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.js run",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,7 +20,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "json-parser": "^1.1.5",
-    "luthervd-user-store": "^1.0.2"
+    "luthervd-user-store": "^1.0.3"
   },
   "devDependencies": {}
 }
