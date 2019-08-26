@@ -1,6 +1,6 @@
 {
   "name": "luthervd-user-store-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "APi for user store",
   "main": "index.js",
   "scripts": {
